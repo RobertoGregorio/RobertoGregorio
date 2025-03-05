@@ -5,10 +5,10 @@ I'm a professional C# .net developer
 ## 🚀 About Me
 - 🌱 I’m learning  AWS, DevOps, React, Software Architecture
 - 💬 Ask me about C#, .NET, and cloud computing
-- 📫 How to reach me: [LinkedIn][(https://www.linkedin.com/in/roberto-gregorio-99506b19a/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roberto-gregorio-99506b19a/)
 
 ## 📈 GitHub Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoGregorio&show_icons=true&theme=radical)
+![Roberto GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoGregorio&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoGregorio&layout=compact&theme=radical)
 
