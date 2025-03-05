@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Roberto Gregorio
 
-I'm a professional .net developer
+I'm a professional C# .net developer
 
 ## 🚀 About Me
 - 🌱 I’m learning  AWS, DevOps, React, Software Architecture
