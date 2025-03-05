@@ -10,5 +10,5 @@ I'm a professional C# .net developer
 ## 📈 GitHub Stats
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoGregorio&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoGregorio&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoGregorio&layout=compact&theme=radical)
 
